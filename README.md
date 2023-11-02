@@ -40,3 +40,16 @@ and after that i have runned these commands and got the following output:
 
 - docker push ifrahehsan/assignment_1:latest
 ![docker image to docker hub](image-6.png)
+
+## Git Repository
+I have created git repository and the clone it by using command:
+![git clone](image-7.png)
+
+and then i have copied all files from previous folder to to git repository folder by command:
+![copy command](image-8.png)
+
+change directory and then add all files to staging state:
+![git add command](image-9.png)
+
+commit code and push it
+![git commit push command](image-10.png)
